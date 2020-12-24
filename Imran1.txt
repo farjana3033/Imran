@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<h1> Imran Diwan </h1>
+</head>
+<title>Thank you</title>
+<style>
+body{background-color:yellow;}
+
+</style>
+<body>
+<p> Imran Diwan this name is enough to put smile on my face. I did not express that much what you are for me but the support 
+which you have given to me. You always makes me feel proud and just because of your trust today i am able to survive confidently.
+I know i hurt you most of time via my actions. But you know that being as friend how much i love you (FID). You are truely legend.
+You always being an angel for me in my life
+
+<p> A big Thank You to you always love you</p>
+<p> Happy christmas</p>
+<img src="C:\Users\Test\Desktop\photos\imran 2020.jpg">
+<img src="C:\Users\Test\Desktop\photos\Im2.jpg">
+
+</body>
+</html>
